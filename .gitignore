@@ -24,3 +24,8 @@ hs_err_pid*
 
 #IDE
 **/.idea/**
+
+/out/
+
+/advent-of-code.iml
+/2021/day5/day5.iml
